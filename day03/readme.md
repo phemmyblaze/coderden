@@ -1,0 +1,1 @@
+Here is the submission for day 3 of 30-Days-Of-JavaScript by Asabeneh
